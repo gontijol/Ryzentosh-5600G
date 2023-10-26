@@ -1,0 +1,12 @@
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
+# Ryzentosh-5600G
