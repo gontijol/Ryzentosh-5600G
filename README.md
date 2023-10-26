@@ -14,9 +14,9 @@ Este OpenCore Ryzentosh EFI é projetado para a B550-M PRO WIFI - RYZEN 5 5600G,
 | Processor | AMD Ryzen 5 5600G with Radeon Graphics | ✅ |
 | Memory | 16GB HyperX DDR4 3200Mhz | ✅ |
 | SSD | Nvme NXSeries 1000GB | ✅ |
-<!-- | HDD | WD10SPZX 1TB | ✅ | -->
 | iGPU | Radeon Vega 7 2GB | ✅ |
 | Sound Card | Renoir Radeon High Definition Audio Controller | ✅ |
+<!-- | HDD | WD10SPZX 1TB | ✅ | -->
 
 ## Working
 
