@@ -21,7 +21,7 @@ Este OpenCore Ryzentosh EFI é projetado para a B550-M PRO WIFI - RYZEN 5 5600G,
 ## Working
 
 - macOS 14.0.0 *Sonoma*
-- CPU (Boost to 3.8Ghz)
+- CPU (Boost to 4.4Ghz)
 - iGPU
 - Ethernet
 - Audio (Layout=15)
