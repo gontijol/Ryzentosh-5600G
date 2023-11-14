@@ -10,7 +10,7 @@ Este OpenCore Ryzentosh EFI é projetado para a B550-M PRO WIFI - RYZEN 5 5600G,
 
 | Specifications | Detail | Working |
 | :------------: | :------: | :--------: |
-| Model | Acer Nitro 5 AN515-52-52BW | ✅ |
+| Model | MSI B550M PRO WIFI VDH | ✅ |
 | Processor | AMD Ryzen 5 5600G with Radeon Graphics | ✅ |
 | Memory | 16GB HyperX DDR4 3200Mhz | ✅ |
 | SSD | Nvme NXSeries 1000GB | ✅ |
